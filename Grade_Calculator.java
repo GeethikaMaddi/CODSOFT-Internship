@@ -1,3 +1,7 @@
+/*
+this is program for Grade calculator
+*/
+
 import java.util.Scanner;
 public class Grade_Calculator {
     public static String grade_cal(float avg){
